@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.app.tashuk.puzzlelantern",
+        "appID": "C4U32HYQHG.app.tashuk.puzzlelantern",
         "paths": [
           "/i/*"
         ],
@@ -18,7 +18,7 @@
   },
   "webcredentials": {
     "apps": [
-      "TEAMID.app.tashuk.puzzlelantern"
+      "C4U32HYQHG.app.tashuk.puzzlelantern"
     ]
   }
 }
