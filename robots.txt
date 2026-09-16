@@ -1,5 +1,4 @@
 User-Agent: *
 Allow: /
-Disallow: /i/
 
 Sitemap: https://puzzlelantern.app/sitemap.xml
