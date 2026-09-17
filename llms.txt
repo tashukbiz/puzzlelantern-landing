@@ -1,0 +1,120 @@
+# Puzzle Lantern
+
+> Puzzle Lantern is a mobile collection of daily puzzle games. Every game has
+> one Daily puzzle: the same grid, the same pattern and the same words for
+> everyone playing that day. There is no signup form and no password, and the
+> app never asks for access to your contacts. Made for entertainment, and
+> nothing more is claimed for it.
+
+Last updated: 17 September 2026.
+
+## The games
+
+Four games ship today. Each one is a self-contained module, and new games join
+the collection over time.
+
+- **Sudoku** (logic). A complete classic 9x9 grid, not a mini version. Pencil
+  marks, unlimited undo, hints, and mistake highlighting you can switch off.
+  Daily runs at the generator's Easy setting. More puzzles is unlimited on
+  Easy, Medium, Hard or Expert. Ranked on completed without hints, then
+  completed with hints, then fewer mistakes, then fewer hints, then time.
+- **Recall** (memory). A pattern of marked cells is shown briefly, then
+  recreated on a blank grid. The Daily is eight seeded escalating rounds and
+  ends on the eighth round or the third strike. More puzzles is endless on a
+  gentler curve.
+- **Vanish** (memory). A hand of playing cards is shown, then re-shown with one
+  card gone; you name the vanished card from a line-up of five. Eight rounds on
+  the Daily, the hand growing every second round, three misses ends it. More
+  puzzles is endless on Easy, Medium or Hard.
+- **Word Sense** (word). Three words a day, one easy, one medium and one hard,
+  each named from a sentence it has been cut out of. Five clues per word from a
+  six-rung catalogue. A wrong guess costs a clue at the same price as asking.
+  Daily only: there is no More puzzles mode. Ranked on solved words weighted by
+  tier, then unspent clues. Time is not part of the ranking.
+
+## How it works
+
+- One Daily puzzle per game per day, identical for every player on that date.
+  Puzzle dates roll over at local midnight.
+- No archive. Yesterday's puzzle is gone.
+- No daily checklist, no combined score across games and nothing to complete.
+  One overall activity streak, kept alive by any single Daily.
+- No signup screen. An account is created on first launch with a generated
+  username. No email address and no password.
+- Friends are added by invite link or by a request to an exact username, and
+  both need the other person to accept. No search, no friend codes, no contact
+  syncing.
+- Play works offline and syncs when connectivity returns.
+
+## Access and cost
+
+- A new installation plays free for seven days, with no card, no account and no
+  store interaction.
+- After that it needs a subscription.
+- Installations from before the first paid release stay free permanently.
+- No third-party advertisements and no advertising identifiers, anywhere.
+- Hints are not sold for money. In Sudoku they cost rank instead.
+
+## Platforms
+
+- iOS: live on the App Store as "Puzzle Lantern: Daily Games", app id
+  6804652103, since 11 September 2026.
+- Android: the project is written but not published.
+
+## What is deliberately not claimed
+
+Puzzle Lantern is an entertainment product. No claim is made, anywhere, that
+playing it sharpens or protects the brain, improves intelligence, memory,
+language ability or cognitive health, prevents or delays any condition, or
+produces any benefit outside the games themselves. Game and category names
+describe what you do in the game, not an effect on you, and no result in it is
+a measurement of anyone's abilities.
+
+## Known limits
+
+- Account recovery is unbuilt, so an account cannot move between devices or
+  survive deleting the app.
+- The first launch of a fresh install with no network cannot establish access.
+- There is no crossword, no Connections-style grouping game and no Spelling Bee
+  equivalent.
+
+## Pages
+
+- [Home](https://puzzlelantern.app/): what the app is and what you play.
+- [Blog](https://puzzlelantern.app/blog/): guides, how to play, and how the
+  games are built.
+- [Privacy Policy](https://puzzlelantern.app/privacy/)
+- [Terms of Service](https://puzzlelantern.app/terms/)
+
+## Guides
+
+- [Free alternatives to NYT Games, mapped game by game](https://puzzlelantern.app/blog/nyt-games-alternative/):
+  which NYT puzzles are free, which need the subscription, and what to play
+  instead of each.
+- [Games like Wordle, but with no words in them](https://puzzlelantern.app/blog/games-like-wordle-but-not-words/):
+  daily puzzles built from numbers, grids, patterns, cards, geography and
+  music.
+
+## How to play
+
+- [Sudoku tips for when you are stuck](https://puzzlelantern.app/blog/sudoku-tips-when-stuck/):
+  seven techniques in the order a solver reaches for them, from scanning to the
+  X-wing.
+- [Sudoku difficulty levels, explained by what they actually measure](https://puzzlelantern.app/blog/sudoku-difficulty-levels-explained/):
+  why clue count is not difficulty, and why two apps disagree about one grid.
+
+## Behind the games
+
+- [Word Sense: a daily word game where the clues are the score](https://puzzlelantern.app/blog/daily-word-game-with-clues/)
+- [How one Sudoku a day is generated and checked](https://puzzlelantern.app/blog/how-a-daily-sudoku-is-generated/)
+- [Vanish: designing a card that disappears](https://puzzlelantern.app/blog/designing-vanish/)
+
+## Product notes
+
+- [What "no ads, no signup" actually means in a puzzle app](https://puzzlelantern.app/blog/puzzle-games-no-ads-no-signup/)
+- [Why there is no daily checklist](https://puzzlelantern.app/blog/no-daily-checklist/)
+- [How you add a friend, and what we never ask for](https://puzzlelantern.app/blog/how-you-add-a-friend/)
+
+## Contact
+
+tashukwork@gmail.com
