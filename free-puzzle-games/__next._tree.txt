@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/3310bc6cb6a341e2.css","style"]
+:HL["/_next/static/chunks/57e35af1882f1d6a.css","style"]
 :HL["/_next/static/media/07454f8ad8aaac57-s.p.fc65572f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/68d403cf9f2c68c5-s.p.fe21a1cd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ea3421846039b7f3-s.p.c02767a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"LY7USlAvmyLNuhgmk0IZ6","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"free-puzzle-games","paramType":null,"paramKey":"free-puzzle-games","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Jfhr8m4hkm-6o_SYJOcvo","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"free-puzzle-games","paramType":null,"paramKey":"free-puzzle-games","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
